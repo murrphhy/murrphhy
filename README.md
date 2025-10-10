@@ -1,13 +1,15 @@
-<h1 align="center">Hola 👋, soy <a href="#" target="blank">
-Julio</a></h1>
+<h1 align="center">Hola 👋, soy 
+  <a href="#" target="blank">
+    Julio
+  </a>
+</h1>
 <h3 align="center">Co-Fundador de Atlansec | Diseñador UX/UI + Desarrollador Web desde España 🇪🇸</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murrphhy&label=Profile%20views&color=0e75b6&style=flat" alt="murrphhy" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-- 🚀 Actualmente trabajando en <a href="https://atlansec.es" target="blank">Atlansec</a>
-- 💼 Co-Fundador enfocado en soluciones de ciberseguridad y desarrollo web
+- 💼 Co-Fundador de <a href="https://atlansec.es" target="blank">Atlansec</a>
 - 🎨 Especializado en **UX/UI Design** y **Desarrollo Frontend**
 - 🌱 Actualmente aprendiendo **React** y **Next.js** para proyectos avanzados
 - 🤝 Disponible para **freelancing** y **colaboraciones**
