@@ -11,11 +11,10 @@
 
 - 💼 Co-Fundador de <a href="https://atlansec.es" target="blank">Atlansec</a>
 - 🎨 Especializado en **UX/UI Design** y **Desarrollo Frontend**
-- 🌱 Actualmente aprendiendo **React** y **Next.js** para proyectos avanzados
 - 🤝 Disponible para **freelancing** y **colaboraciones**
 - 🎯 Transformo ideas en experiencias digitales excepcionales
-- 💬 Pregúntame sobre **UX/UI Design, React, JavaScript**
-- 📫 Cómo contactarme: **jmartin@atlansec.es**
+- 💬 Pregúntame sobre **UX/UI Design, React, JavaScript**...
+- 📫 Cómo contactarme: **jmartin@atlansec.es** o **julio.martin.garci@gmail.com**
 - 📄 Conoce más sobre mi experiencia <a href="#" target="blank">Portfolio</a>
 <br/>
 
